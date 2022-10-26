@@ -38,10 +38,11 @@ Project is: /_in progress/ still working on some bugs.
 ## Acknowledgements
 This game is inspired by my own interest in games as well as general interest in snow landscape art.
 It is also inspired by Scratch tutorial videos on Youtube Digital Adventures 
-- for the snow falling effect https://www.youtube.com/watch?v=2uB2XKXCdUE&t=253s
+- For the snow falling effect https://www.youtube.com/watch?v=2uB2XKXCdUE&t=253s
 - Fuelvin for the coding of a platform game https://www.youtube.com/watch?v=MAjobdDNqKY&t=1038s
 - Griffpatch for moving platform https://www.youtube.com/watch?v=Vu_PO5YMDVQ&t=530s
 - Further inspiration and support by resources provided online by Scratch.
+- Backdrop Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-winter-landscape_20282224.htm#query=snow%20landscape&position=11&from_view=search&track=sph">Freepik</a>
 
 ## Contact
 Created by [@sharonkim03] 
