@@ -5,6 +5,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
+* [Concepts](#concepts)
 * [Setup](#setup)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
@@ -23,7 +24,15 @@ Scratch 1.4
 
 ## Features
 - Snow falling in the background
-- 
+
+## Concepts
+- Variables
+- Loops (For and while)
+- Conditional Statements 
+- Code
+- Programming language
+
+
 ## Setup
 To run this project go to the link below and click the green flag to start playing
 https://scratch.mit.edu/projects/740620247
