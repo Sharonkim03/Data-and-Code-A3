@@ -1,6 +1,6 @@
 # Data-and-Code-A3
 > Winter platform game created using Scratch
-> 
+> Live demo [_here_] (https://web.microsoftstream.com/video/7f9b7f17-3a6a-4613-8375-00cf8b26fb27)
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -37,10 +37,11 @@ Project is: /_in progress/ still working on some bugs.
 
 ## Acknowledgements
 This game is inspired by my own interest in games as well as general interest in snow landscape art.
-It is also inspired by Scratch tutorial videos on Youtube Digital Adventures - for the snow falling effect https://www.youtube.com/watch?v=2uB2XKXCdUE&t=253s
+It is also inspired by Scratch tutorial videos on Youtube Digital Adventures 
+- for the snow falling effect https://www.youtube.com/watch?v=2uB2XKXCdUE&t=253s
 - Fuelvin for the coding of a platform game https://www.youtube.com/watch?v=MAjobdDNqKY&t=1038s
 - Griffpatch for moving platform https://www.youtube.com/watch?v=Vu_PO5YMDVQ&t=530s
-- further inspiration by resources provided online by Scratch.
+- Further inspiration and support by resources provided online by Scratch.
 
 ## Contact
 Created by [@sharonkim03] 
