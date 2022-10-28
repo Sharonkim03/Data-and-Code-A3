@@ -1,6 +1,9 @@
 # Data-and-Code-A3
 > Winter themed platform game created using Scratch
 > Live demo [_here_] (https://web.microsoftstream.com/video/7f9b7f17-3a6a-4613-8375-00cf8b26fb27)
+
+<img width="561" alt="image" src="https://user-images.githubusercontent.com/116048334/198507077-60649b49-aa55-4655-b84a-6b0799add962.png">
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
