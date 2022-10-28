@@ -1,5 +1,5 @@
 # Data-and-Code-A3
-> Winter platform game created using Scratch
+> Winter themed platform game created using Scratch
 > Live demo [_here_] (https://web.microsoftstream.com/video/7f9b7f17-3a6a-4613-8375-00cf8b26fb27)
 ## Table of Contents
 * [General Info](#general-information)
