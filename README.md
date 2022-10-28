@@ -15,8 +15,8 @@
 
 ## General information
 - This is a project that aims to demonstrate my code literacy, where I have created a platformer game on Scratch. 
-- This project intends to improve the limited code literacy and abilities I have. 
-- The concept of the platformer game is winter and the character played is a snowman
+- This project intends to improve the minimal code literacy and abilities I have. 
+- The theme of the game is winter and the character played is a snowman
 
 ## Technologies Used
 The project is created with:
@@ -24,14 +24,16 @@ Scratch 1.4
 
 ## Features
 - Snow falling in the background
+- Moving platform
 
 ## Concepts
 - Variables
 - Loops (For and while)
-- Conditional Statements 
-- Code
+- Conditional Statements (If and If-else)
+- Boolean operators
+- Relational operators
 - Programming language
-
+- Code
 
 ## Setup
 To run this project go to the link below and click the green flag to start playing
@@ -42,7 +44,8 @@ Project is: /_in progress/ still working on some bugs.
 
 ## Room for Improvement
 - Fix bugs
-- Fix movement of character
+- Fix movement of character to be smoother
+- Fix bug for moving platform
 
 ## Acknowledgements
 This game is inspired by my own interest in games as well as general interest in snow landscape art.
